@@ -1,3 +1,3 @@
 class AppConfig {
-  static const String mapKey = "AIzaSyDfA_oROFwLY7RyCteCbDS-Y4HvjaPpQ1I";
+  static const String mapKey = "YOUR_GOOGLE_MAPS_API_KEY";
 }
