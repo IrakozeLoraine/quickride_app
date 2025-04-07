@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "352872723000",
+    "project_id": "quickride-3fa23",
+    "storage_bucket": "quickride-3fa23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352872723000:android:a26b1fbce269e3fbcfeccd",
+        "android_client_info": {
+          "package_name": "com.lori.quickride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352872723000-5npj4acu703tumemc3ie026e5mmu2f6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANXjVUfUz09wv17ndFoRcWc2nvEVttDaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352872723000-5npj4acu703tumemc3ie026e5mmu2f6l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352872723000-8vns44hf8u3183gp9hnknbsp6g110h7b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lori.quickride"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
